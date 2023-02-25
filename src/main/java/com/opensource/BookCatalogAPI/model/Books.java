@@ -26,6 +26,6 @@ public class Books {
     private String isbn;
 
     @NotNull
-    private Integer publicationYear;
+    private Integer year;
 
 }
