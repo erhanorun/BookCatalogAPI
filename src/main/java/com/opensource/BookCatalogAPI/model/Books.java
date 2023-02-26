@@ -23,7 +23,7 @@ public class Books {
     private String author;
 
     @NotBlank
-    private String isbn;
+    private int isbn;
 
     @NotNull
     private Integer year;
